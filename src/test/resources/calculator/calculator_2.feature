@@ -1,4 +1,4 @@
-Feature: Integer Arithmetic Expressions
+Feature: Notations
   Background:
     Given I initialise a calculator
 
